@@ -1,2 +1,1 @@
-# Precursohenry
-este es el precurso de henry
+Ivo: primer repositorio desde gitbash clonado en la pc
